@@ -1,0 +1,12 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\bin\Debug\ShapeTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\bin\Debug\ShapeTests.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\obj\Debug\ShapeTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\obj\Debug\ShapeTests.pdb
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\3-pood-liskov-substitution-principle-exercise-files\Demo\LSP\TestProject1\bin\Debug\ShapeTests.dll
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\3-pood-liskov-substitution-principle-exercise-files\Demo\LSP\TestProject1\bin\Debug\ShapeTests.pdb
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\3-pood-liskov-substitution-principle-exercise-files\Demo\LSP\TestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\3-pood-liskov-substitution-principle-exercise-files\Demo\LSP\TestProject1\obj\Debug\ShapeTests.csprojResolveAssemblyReference.cache
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\3-pood-liskov-substitution-principle-exercise-files\Demo\LSP\TestProject1\obj\Debug\ShapeTests.csproj.CoreCompileInputs.cache
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\3-pood-liskov-substitution-principle-exercise-files\Demo\LSP\TestProject1\obj\Debug\ShapeTests.dll
+C:\Users\v-stebic\Documents\DevOps\unittesting\principles-oo-design\materials\3-pood-liskov-substitution-principle-exercise-files\Demo\LSP\TestProject1\obj\Debug\ShapeTests.pdb
